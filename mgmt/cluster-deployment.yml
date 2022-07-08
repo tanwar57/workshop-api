@@ -13,5 +13,5 @@ spec:
     targetRevision: HEAD
     helm:
       valueFiles:
-        - values-c1.yaml
+        - values-c2.yaml
   project: default
