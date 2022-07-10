@@ -1,5 +1,5 @@
 cluster:
-  name: cluster-1
+  name: cluster-01
   masterNodes: 1
   workerNodes: 1
   version: v1.21.1
